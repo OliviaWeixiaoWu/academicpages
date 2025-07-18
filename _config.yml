@@ -9,12 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Weixiao (Olivia) Wu / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Weixiao (Olivia) Wu"
+description              : &description "Dr. Weixiao Wu is an Assistant Professor of Finance at Assumption University. Her research lies at international trade, trade policy, and global economies, with a focus on how firms respond to external shocks, including tariff policy uncertainty, tax policy changes, and exchange rate fluctuations, through pricing, productivity, and investment strategies.
+At Assumption, I teach both introductory and advanced courses in Statistics, Finance, and MBA. I’m actively involved in curricular development, student advising, and experiential initiatives such as the Greyhounds Investment Fund.
+I’m passionate about creating inclusive and intellectually engaging learning environments, and I strive to bridge theory with practice in both my teaching and research."
+url                      : https://OliviaWeixiaoWu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,64 +25,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Olivia Wu"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "Dr. Weixiao Wu is an Assistant Professor of Finance at Assumption University. Her research lies at international trade, trade policy, and global economies, with a focus on how firms respond to external shocks, including tariff policy uncertainty, tax policy changes, and exchange rate fluctuations, through pricing, productivity, and investment strategies.
+At Assumption, I teach both introductory and advanced courses in Statistics, Finance, and MBA. I’m actively involved in curricular development, student advising, and experiential initiatives such as the Greyhounds Investment Fund.
+I’m passionate about creating inclusive and intellectually engaging learning environments, and I strive to bridge theory with practice in both my teaching and research."
+  location         : "Worcester, MA"
+  employer         : "Assumption University"
+  uri              : https://www.assumption.edu/people-and-departments/directory/olivia-wu-phd-cfa # URL
+  email            : "w.wu@assumption.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=C3oUGVgAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8016-2496"
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
